@@ -8,7 +8,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; I started to code when I was 17. I wanted to build a private server of the game I used to play and since the first touch with the source code I knew that this was what I wanted to do in my life.
-- ✍️ &nbsp; I am currently a student at [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> and I study front-end development with <img align="left" style="padding-right: 12px" alt="JavaScript" width="34px" src="https://github.com/github/explore/blob/master/topics/react/react.png"/>
+- ✍️ &nbsp; I am currently a student at [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> and I study front-end development with 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
