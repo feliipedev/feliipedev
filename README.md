@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi, I'm Felipe, i'm a lover and curious about new technologies.</h1>
+<h1>👋 &nbsp;Hi, I'm Felipe, i'm a lover and curious about new technologies and everything related to web development.</h1>
 <p align="center">
 <a href="https://instagram.com/felipmonteirodev"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:feliipemonteiro901@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
