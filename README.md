@@ -8,7 +8,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; I started to code when I was 17. I wanted to build a private server of the game I used to play and since the first touch with the source code I knew that this was what I wanted to do in my life.
-- ✍️ &nbsp; I am currently a student at Labenu and I study front-end development with React ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+- ✍️ &nbsp; I am currently a student at Labenu and I study front-end development with ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
