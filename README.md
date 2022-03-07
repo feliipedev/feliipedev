@@ -1,23 +1,32 @@
-<h1>👋 &nbsp;Hi, I'm Felipe, i'm a lover and curious about new technologies and everything related to web development.</h1>
-<p align="center">
-<a href="mailto:feliipemonteiro901@gmail.com"><img src="https://img.shields.io/badge/-feliipemonteiro901@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-</p>
-
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-- 👨🏻‍💻 &nbsp; I started to code when I was 18. I wanted to build a private server of the game I used to play and since the first touch with the source code I knew that this was what I wanted to do in my life.
-- ✍️ &nbsp; I am currently a student at [Labenu!](https://www.labenu.com.br/)<img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5efbb5055f2478ba2bc322d0_icone_gif.gif" width="28"> and I study front-end development with ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-<h2>🚀 &nbsp;A Little More About My Profile</h2>
-
-[![Felipe Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliipedev)](https://github.com/anuraghazra/github-readme-stats)
+## Oiii eu sou a Felipe Monteiro e amo esse universo da programação!
+<div align="center">
+  <a href="https://github.com/feliipedev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliipedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliipedev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="felipe-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  <img align="center" alt="felipe-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
+   <img align="center" alt="felipe-postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  >
+  <img align="center" alt="felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="right" alt="felipe-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/87/3f/71/873f71c1f893a0aafad8695324fedfc9.gif">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/feliipedev/feliipedev/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
