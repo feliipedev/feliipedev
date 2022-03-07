@@ -1,4 +1,4 @@
-## Oiii eu sou a Felipe Monteiro e amo esse universo da programação!
+## Oiii eu sou a Felipe Monteiro e atualmente sou desenvolvedor web!
 <div align="center">
   <a href="https://github.com/feliipedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliipedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
